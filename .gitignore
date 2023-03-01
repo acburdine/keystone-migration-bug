@@ -1,0 +1,6 @@
+node_modules
+.keystone/admin
+keystone.db
+keystone.db-journal
+*.log
+.keystone
